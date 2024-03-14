@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Virtual environment
+renv/
+
+# Git folder
+.git/
